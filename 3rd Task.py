@@ -4,12 +4,6 @@
 # In[1]:
 
 
-#######################################################################
-#By Muhammad Ubaidullah Tanoli
-#######################################################################
-
-
-
 get_ipython().run_line_magic('matplotlib', 'notebook')
 import numpy as np
 import matplotlib.pyplot as plt
